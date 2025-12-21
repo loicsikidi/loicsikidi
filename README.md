@@ -8,7 +8,8 @@ I'm a passionate developer, curious and always eager to learn new things. My jou
 
 I'm deeply interested in TPM technology and Remote Attestation (see [RFC 9334](https://datatracker.ietf.org/doc/html/rfc9334)). Here are some open source projects I'm currently working on:
 
-- 💊 [TPM Pills](https://tpmpills.com/) - A series of articles and tutorials to learn how to use TPMs and Remote Attestation. I hope to finalize a V1 of the project in 2026.
+- 💊 [TPM Pills](https://tpmpills.com/) - A series of articles and tutorials to learn how to use TPMs and Remote Attestation.
+  - I hope to finalize a V1 of the project in 2026!
 - 🛡️ [tpm-ca-certificates](https://github.com/loicsikidi/tpm-ca-certificates) - Centralizes Certificate Authority (CA) certificates from different TPM manufacturers to facilitate verification of TPM authenticity.
 - 🧿 [tpm-trust](https://github.com/loicsikidi/tpm-trust) - A CLI tool that verifies whether a TPM is genuine, using `tpm-ca-certificates`.
 - 🧰 [go-tpm-kit](https://github.com/loicsikidi/go-tpm-kit) - A library providing helpers to facilitate TPM integration in Go.
