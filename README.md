@@ -32,7 +32,7 @@ I find transparency logs to be an excellent way to improve security and trust by
 ## Professional
 
 - I currently work at [S3NS](https://www.s3ns.io/en) where we offer a new GCP region in France, aimed at businesses, ensuring their data remains in France and is protected by strict security standards. Check it out!
-- I'm open to collaboration or employment opportunities in the cybersecurity field, particularly those involving the **development of innovative solutions** using technologies like TPM, Remote Attestation, and transparency logs.
+- I'm open to collaboration or employment opportunities in the cybersecurity field, particularly those involving the **development of innovative solutions** using technologies like TPM, Remote Attestation, Confidential Computing, or transparency logs.
 
 ## Contact Me
 
