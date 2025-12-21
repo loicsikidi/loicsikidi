@@ -20,18 +20,19 @@ I'm deeply interested in TPM technology and Remote Attestation (see [RFC 9334](h
 
 I find transparency logs to be an excellent way to improve security and trust by providing an immutable and verifiable record of events. The ecosystem is very active and more and more tools (e.g., [tessera](https://github.com/transparency-dev/tessera)) are reducing the barrier to entry for using a tlog in projects.
 
-**Note:** [tpm-ca-certificates](https://github.com/loicsikidi/tpm-ca-certificates) uses Sigstore to prove the integrity and authenticity of the bundle it generates.
+> [!NOTE]
+> [tpm-ca-certificates](https://github.com/loicsikidi/tpm-ca-certificates) uses Sigstore to prove the integrity and authenticity of the bundle it generates.
 
 ## Technical Goals (2026)
 
 - Find interesting use cases for transparency logs
 - Learn to code in Rust and Haskell
-  - **Haskell:** Deepen functional programming concepts
   - **Rust:** Some projects I follow are coded in Rust; I want to understand the language to better grasp them and potentially contribute
+  - **Haskell:** Deepen functional programming concepts
 
 ## Professional
 
-- I currently work at [S3NS](https://www.s3ns.io/en) where we offer a new GCP region in France, aimed at businesses, ensuring their data remains in France and is protected by strict security standards. Check it out!
+- I currently work at [S3NS](https://www.s3ns.io/en) where we offer a new GCP (Google Cloud Platform) region in France, aimed at businesses, ensuring their data remains in France and is protected by strict security standards. Check it out!
 - I'm open to collaboration or employment opportunities in the cybersecurity field, particularly those involving the **development of innovative solutions** using technologies like TPM, Remote Attestation, Confidential Computing, or transparency logs.
 
 ## Contact Me
