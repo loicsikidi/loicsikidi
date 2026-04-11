@@ -38,6 +38,6 @@ I find transparency logs to be an excellent way to improve security and trust by
 
 ## Contact Me
 
-- Email: rat_9_epics@icloud.com
+- Email: loic.sikidi@gmail.com
 
 *PS: I have an aversion to social networks, so my accounts on these platforms have been inactive for years.*
