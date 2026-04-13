@@ -14,7 +14,7 @@ I'm deeply interested in TPM technology and Remote Attestation (see [RFC 9334](h
 - 🧿 [tpm-trust](https://github.com/loicsikidi/tpm-trust) - A CLI tool that verifies whether a TPM is genuine, using `tpm-ca-certificates`.
 - 🧰 [go-tpm-kit](https://github.com/loicsikidi/go-tpm-kit) - A library providing helpers to facilitate TPM integration in Go.
 
-> [!NOTE]
+> [!IMPORTANT]
 > My personal work does not represent my employer.
 
 ### Transparency Logs
