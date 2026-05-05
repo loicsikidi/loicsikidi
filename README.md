@@ -30,6 +30,10 @@ I find transparency logs to be an excellent way to improve security and trust by
 - Learn to code in Rust and Haskell
   - **Rust:** Some projects I follow are coded in Rust; I want to understand the language to better grasp them and potentially contribute
   - **Haskell:** Deepen functional programming concepts
+ 
+## Talks
+
+- [Chiffrement @S3NS](https://www.youtube.com/watch?v=FDOX6HHsvQU) at S3NS Submit 2026 (content in 🇫🇷)
 
 ## Professional
 
