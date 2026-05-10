@@ -36,9 +36,9 @@ I find transparency logs to be an excellent way to improve security and trust by
 - [Chiffrement @S3NS](https://www.youtube.com/watch?v=FDOX6HHsvQU) at S3NS Submit 2026 (content in 🇫🇷)
 
 ## Latest Articles
-- [Why I Prefer Structs Over Variadic Functions in Go](https://words.lsikidi.com/posts/002-why-i-prefer-structs-over-variadic-funcs/)
-- [Making Go APIs More Ergonomic with Optional Arguments](https://words.lsikidi.com/posts/001-optional-arg-is-dope/)
-- [Why I&#39;m creating a personal blog](https://words.lsikidi.com/posts/000-my-first-post/)
+- [Why I Prefer Structs Over Variadic Functions in Go](https://words.lsikidi.com/posts/002-why-i-prefer-structs-over-variadic-funcs/) (1 day ago)
+- [Making Go APIs More Ergonomic with Optional Arguments](https://words.lsikidi.com/posts/001-optional-arg-is-dope/) (1 day ago)
+- [Why I&#39;m creating a personal blog](https://words.lsikidi.com/posts/000-my-first-post/) (2 days ago)
 
 ## Professional
 
