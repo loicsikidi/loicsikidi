@@ -37,7 +37,7 @@ I find transparency logs to be an excellent way to improve security and trust by
 
 ## Latest Articles
 {{- range rss "https://words.lsikidi.com/index.xml" 5 }}
-- [{{ .Title }}]({{ .URL }})
+- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
 
 ## Professional
