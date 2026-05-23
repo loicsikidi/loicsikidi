@@ -36,11 +36,11 @@ I find transparency logs to be an excellent way to improve security and trust by
 - [Chiffrement @S3NS](https://www.youtube.com/watch?v=FDOX6HHsvQU) at S3NS Submit 2026 (content in 🇫🇷)
 
 ## Latest Articles
-- [Verifying Bundle Integrity with Transparency Logs](https://words.lsikidi.com/posts/005-verifying-bundle-integrity-transparency-logs/) (1 day ago)
-- [How tpm-ca-certificates Works: Principles and Tools](https://words.lsikidi.com/posts/004-how-tpm-ca-certificates-works-principles-and-tools/) (2 days ago)
-- [Building Trust: Why TPM Validation Matters](https://words.lsikidi.com/posts/003-building-trust-why-tpm-certificate-validation-matters/) (2 days ago)
-- [Why I Prefer Structs Over Variadic Functions in Go](https://words.lsikidi.com/posts/002-why-i-prefer-structs-over-variadic-funcs/) (1 week ago)
-- [Making Go APIs More Ergonomic with Optional Arguments](https://words.lsikidi.com/posts/001-optional-arg-is-dope/) (1 week ago)
+- [Hardening CI/CD Against Supply Chain Attacks](https://words.lsikidi.com/posts/006-hardening-cicd-against-supply-chain-attacks/) (1 day ago)
+- [Verifying Bundle Integrity with Transparency Logs](https://words.lsikidi.com/posts/005-verifying-bundle-integrity-transparency-logs/) (2 days ago)
+- [How tpm-ca-certificates Works: Principles and Tools](https://words.lsikidi.com/posts/004-how-tpm-ca-certificates-works-principles-and-tools/) (3 days ago)
+- [Building Trust: Why TPM Validation Matters](https://words.lsikidi.com/posts/003-building-trust-why-tpm-certificate-validation-matters/) (3 days ago)
+- [Why I Prefer Structs Over Variadic Functions in Go](https://words.lsikidi.com/posts/002-why-i-prefer-structs-over-variadic-funcs/) (2 weeks ago)
 
 ## Professional
 
