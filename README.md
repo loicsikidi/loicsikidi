@@ -36,11 +36,11 @@ I find transparency logs to be an excellent way to improve security and trust by
 - [Chiffrement @S3NS](https://www.youtube.com/watch?v=FDOX6HHsvQU) at S3NS Submit 2026 (content in 🇫🇷)
 
 ## Latest Articles
-- [TPM Trust Made Simple with the Go SDK](https://words.lsikidi.com/posts/007-tpm-trust-made-simple-with-the-go-sdk/) (1 day ago)
-- [Hardening CI/CD Against Supply Chain Attacks](https://words.lsikidi.com/posts/006-hardening-cicd-against-supply-chain-attacks/) (2 days ago)
-- [Verifying Bundle Integrity with Transparency Logs](https://words.lsikidi.com/posts/005-verifying-bundle-integrity-transparency-logs/) (3 days ago)
-- [How tpm-ca-certificates Works: Principles and Tools](https://words.lsikidi.com/posts/004-how-tpm-ca-certificates-works-principles-and-tools/) (4 days ago)
-- [Building Trust: Why TPM Validation Matters](https://words.lsikidi.com/posts/003-building-trust-why-tpm-certificate-validation-matters/) (4 days ago)
+- [TPM Trust Made Simple with the Go SDK](https://words.lsikidi.com/posts/008-tpm-ca-certs-go-sdk/) (1 day ago)
+- [Keeping Watch: How Daily Checks Ensure Bundle Reliability](https://words.lsikidi.com/posts/007-daily-sanity-checks/) (2 days ago)
+- [Hardening CI/CD Against Supply Chain Attacks](https://words.lsikidi.com/posts/006-hardening-cicd-against-supply-chain-attacks/) (3 days ago)
+- [Verifying Bundle Integrity with Transparency Logs](https://words.lsikidi.com/posts/005-verifying-bundle-integrity-transparency-logs/) (4 days ago)
+- [How tpm-ca-certificates Works: Principles and Tools](https://words.lsikidi.com/posts/004-how-tpm-ca-certificates-works-principles-and-tools/) (5 days ago)
 
 ## Professional
 
