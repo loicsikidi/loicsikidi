@@ -37,7 +37,7 @@ I find transparency logs to be an excellent way to improve security and trust by
 
 ## Latest Articles
 - [Validating Trust: Introducing tpm-trust](https://words.lsikidi.com/posts/009-introducing-tpm-trust/) (1 month ago)
-- [TPM Trust Made Simple with the Go SDK](https://words.lsikidi.com/posts/008-tpm-ca-certs-go-sdk/) (1 month ago)
+- [TPM Trust Made Simple with the Go SDK](https://words.lsikidi.com/posts/008-tpm-ca-certs-go-sdk/) (2 months ago)
 - [Keeping Watch: How Daily Checks Ensure Bundle Reliability](https://words.lsikidi.com/posts/007-daily-sanity-checks/) (2 months ago)
 - [Hardening CI/CD Against Supply Chain Attacks](https://words.lsikidi.com/posts/006-hardening-cicd-against-supply-chain-attacks/) (2 months ago)
 - [Verifying Bundle Integrity with Transparency Logs](https://words.lsikidi.com/posts/005-verifying-bundle-integrity-transparency-logs/) (2 months ago)
